@@ -1,0 +1,288 @@
+,Number,Year,name,Type,country,routes,Length,Width,Number_of_transit,Length_to_drop
+0,1,1903-06,GjÃ¸a,21 m auxiliary sloop,Norway,West 4,21,,,0
+1,2,1940-42,St Roch,29Â·7 m auxiliary schooner,Canada,East  6,29,7,1,1
+2,3,1944,St Roch,29Â·7 m auxiliary schooner,Canada,West 2,29,7,2,1
+3,4,1954,HMCS Labrador,icebreaker,Canada,West 2,,,,0
+4,5,1957,USCGC Bramble,buoy tender,United States,East  6,,,,0
+5,6,1957,USCGC Spar,buoy tender,United States,East  6,,,,0
+6,7,1957,USCGC Storis,icebreaker,United States,East  6,,,,0
+7,8,1967,CCGS John A. McDonald,icebreaker,Canada,West 3,,,,0
+8,9,1969,USCGC Northwind,icebreaker,United States,East  5,,,1,1
+9,10,1969,USCGC Northwind,icebreaker,United States,West 3,,,2,1
+10,11,1969,USCGC Staten Island,icebreaker,United States,East  2,,,,0
+11,12,1970,CSS Baffin,research icebreaker,Canada,East  2,,,,0
+12,13,1970,CSS Hudson,research icebreaker,Canada,East  2,,,1,1
+13,14,1975,Pandora II,hydrographic vessel,Canada,East  7,,,1,1
+14,15,1975,Theta,research vessel,Canada,East  7,,,,0
+15,16,1975,CSS Skidgate,buoy tender,Canada,East  6,,,,0
+16,17,1976,CCGS J. E. Bernier,icebreaker,Canada,East  3,,,1,1
+17,18,1977,Williwaw,13 m sloop,Netherlands,West 4,13,,,0
+18,19,1978,CCGS Pierre Radisson,icebreaker,Canada,East  2,,,,0
+19,20,1976-79,J. E. Bernier II,10 m ketch,Canada,West 4,10,,,0
+20,21,1979,Canmar Kigoriak,icebreaker,Canada,West 2,,,,0
+21,22,1979,CCGS Louis S. St Laurent,icebreaker,Canada,West 2,,,,0
+22,23,1980,CCGS J. E. Bernier,icebreaker,Canada,East  4,,,2,1
+23,24,1980,Pandora II,hydrographic vessel,Canada,East  4,,,2,1
+24,25,1981,CSS Hudson,research icebreaker,Canada,East  3,,,2,1
+25,26,1979-82,Mermaid,15 m sloop,Japan,West 6,15,,,0
+26,27,1983,Arctic Shiko,tug,Canada,East  3,,,,0
+27,28,1983,Polar Circle,research vessel,Canada,East  4,,,,0
+28,29,1984,Lindblad Explorer,ice strengthened ship,Sweden,West 4,,,1,1
+29,30,1985,USCGC Polar Sea,icebreaker,United States,West 2,,,1,1
+30,31,1985,World Discoverer,ice strengthened ship,Singapore,East  6,,,1,1
+31,32,1976-88,Canmar Explorer II,drilling ship,Canada,West 3,,,,0
+32,33,1983-88,Belvedere,18 m yacht,United States,East  6,18,,,0
+33,34,1983-88,Vagabondeau,15*3 m yacht,France,East 6,15,3,,0
+34,35,1988,CCGS Henry A. Larsen,icebreaker,Canada,East  5,,,,0
+35,36,1988,CCGS Martha L. Black,icebreaker,Canada,East  5,,,,0
+36,37,1988,USCGC Polar Star,icebreaker,United States,East  3,,,1,1
+37,38,1988,Society Explorer,ice strengthened ship,Bahamas,East  5,,,2,1
+38,39,1986-89,Mabel E. Holland,12Â·8 m lifeboat,Britain,West 6,12,8,,0
+39,40,1988-89,Northanger,15 m ketch,Britain,West 4,15,,,0
+40,41,1989,USCGC Polar Star,icebreaker,United States,West 3,,,2,1
+41,42,1983-90,Ikaluk,icebreaker,Canada,East  3,,,1,1
+42,43,1990,CCGC Terry Fox,icebreaker,Canada,East  3,,,,0
+43,44,1990,USCGC Polar Sea,icebreaker,United States,West 3,,,2,1
+44,45,1992,Frontier Spirit,ice strengthened ship,Bahamas,West 3,,,1,1
+45,46,1992,Ikaluk,icebreaker,Canada,West 3,,,2,1
+46,47,1992,Kapitan Khlebnikov,icebreaker,Russia,East  3,,,1,1
+47,48,1993,Dagmar Aaen,27 m yacht,Germany,West 5,27,,1,1
+48,49,1993,Frontier Spirit,ice strengthened ship,Bahamas,West 3,,,2,1
+49,50,1993,Kapitan Khlebnikov,icebreaker,Russia,East  3,,,2,1
+50,51,1994,Hanseatic,ice strengthened ship,Bahamas,West 3,,,1,1
+51,52,1994,Itasca,converted tug,Britain,East  4,,,,0
+52,53,1994,Kapitan Khlebnikov,icebreaker,Russia,East  3,,,3,1
+53,54,1994,Kapitan Khlebnikov,icebreaker,Russia,West 2,,,4,1
+54,55,1995,CCGS Arctic Ivik,icebreaker,Canada,East  5,,,1,1
+55,56,1995,CCGS Arctic Ivik,icebreaker,Canada,West 5,,,2,1
+56,57,1995,Dove III,8Â·5 m yacht,Canada,East  3,8,5,,0
+57,58,1995,Hrvatska Cigra,19Â·8 m yacht,Croatia,West 5,19,8,,0
+58,59,1995,Kapitan Khlebnikov,icebreaker,Russia,East  5,,,5,1
+59,60,1996,Arctic Circle,tug,Canada,East  3,,,,0
+60,61,1996,Hanseatic,ice strengthened ship,Bahamas,West 3,,,2,1
+61,62,1996,Kapitan Dranitsyn,icebreaker,Russia,East  5,,,1,1
+62,63,1996,CCGS Sir Wilfrid Laurier,icebreaker,Canada,East  5,,,,0
+63,64,1997,Hanseatic,ice strengthened ship,Bahamas,West 3,,,3,1
+64,65,1997,Kapitan Khlebnikov,icebreaker,Russia,East  3,,,6,1
+65,66,1998,Hanseatic,ice strengthened ship,Bahamas,East  3,,,4,1
+66,67,1998,Kapitan Khlebnikov,icebreaker,Russia,East  3,,,7,1
+67,68,1999,Admiral Makarov,icebreaker,Russia,East  3,,,,0
+68,69,1999,Irbis,tug,Russia,East  3,,,,0
+69,70,1999,Kapitan Dranitsyn,icebreaker,Russia,West 3,,,2,1
+70,71,1999,Ocean Search,12Â·5 m yacht,France,East  6,12,5,,0
+71,72,2000,Evohe,25 m yacht,NewZealand,East  6,25,,,0
+72,73,2000,Hanseatic,ice strengthened ship,Bahamas,West 3,,,5,1
+73,74,2000,USCGC Healy,icebreaker,United States,West 3,,,1,1
+74,75,2000,Kapitan Dranitsyn,icebreaker,Russia,West 3,,,3,1
+75,76,2000,Nadon,17Â·7 m RCMP catamaran,Canada,East  6,17,7,,0
+76,77,2000,Simon Fraser,icebreaker,Canada,East  6,,,,0
+77,78,2001,Kapitan Khlebnikov,icebreaker,Russia,East  3,,,8,1
+78,79,2001,Kapitan Khlebnikov,icebreaker,Russia,West 1,,,9,1
+79,80,2001,Northabout (14Â·9 m yacht) Irela,Dublin,Jarlath,West 4,,,14,2
+80,81,2001,Turmoil,46 m motor yacht,Cayman,West 4,46,,1,1
+81,82,2001-02,Nuage,12Â·8 m yacht,France,East  5,12,8,,0
+82,83,2002,Apostol Andrey,16Â·2 m yacht,Russia,East  5,16,2,,0
+83,84,2002,Arctic Kalvik,icebreaker tug,Barbados,East  3,,,,0
+84,85,2002,Hanseatic,ice strengthened ship,Bahamas,West 3,,,6,1
+85,86,2002,Kapitan Khlebnikov1,icebreaker,Russia,East  3,,,1,1
+86,87,2002,Sedna IV,51 m yacht,Canada,West 5,51,,,0
+87,88,2003,Bremen,ice strengthened ship,Bahamas,West 3,,,3,1
+88,89,2003,USCGC Healy,icebreaker,United States,West 3,,,2,1
+89,90,2003,Kapitan Khlebnikov,icebreaker,Russia,East  5,,,11,2
+90,91,2003,Norwegian Blue,12Â·9 m yacht,Britain,East  5,12,9,,0
+91,92,2003,Vagabond,15Â·3 m yacht,France,East  5,15,3,2,1
+92,93,2003-04,Dagmar Aaen,27 m yacht,Germany,East  5,27,,2,1
+93,94,2003-04,Polar Bound,14Â·6 m motorboat,Britain,East  5,14,6,1,1
+94,95,2004,Kapitan Khlebnikov,icebreaker,Russia,East  5,,,12,2
+95,96,2004-05,Fine Tolerance,13Â·7 m yacht,Australia,East  6,13,7,,0
+96,97,2005,Idlewild,17Â·3 m motorboat,Canada,East  6,17,3,,0
+97,98,2005,Kapitan Khlebnikov,icebreaker,Russia,East  3,,,13,2
+98,99,2005,Kapitan Khlebnikov,icebreaker,Russia,West 3,,,14,2
+99,100,2005,Oden,icebreaker,Sweden,West 3,,,,0
+100,101,2003-06,Minke I,12Â·8 m yacht,Canada,East  6,12,8,,0
+101,102,2006,Bremen,ice-strengthened ship,Bahamas,West 4,,,4,1
+102,103,2006,Kapitan Khlebnikov,icebreaker,Russia,East  7,,,15,2
+103,104,2006,Nekton,13Â·6 m yacht,Poland,West 6,13,6,,0
+104,105,2006,Stary,13*5 m yacht,Poland,West 6,13,5,,0
+105,106,2007,Babouche,7Â·5 m catamaran,France,East  5,7,5,,0
+106,107,2007,Cloud Nine,17Â·3 m ketch,United States,West 4,17,3,,0
+107,108,2007,Hanseatic,ice strengthened ship,Bahamas,West 5,,,7,1
+108,109,2007,Kapitan Khlebnikov,icebreaker,Russia,East  5,,,16,2
+109,110,2007,Luck Dragon,12Â·1 m yacht,Britain,West 3,12,1,,0
+110,111,2005-08,Arctic Wanderer,11Â·9 m yacht,United States,East  6,11,9,,0
+111,112,2008,Amodino,23 m yacht,Spain,East  4,23,,,0
+112,113,2008,Baloum Gwen,14Â·9 m yacht,Belgium,West 4,14,9,1,1
+113,114,2008,Berrimilla,10 m yacht,Australia,East  4,10,,,0
+114,115,2008,Bremen,ice-strengthened ship,Bahamas,West 5,,,5,1
+115,116,2008,Peter Faber,cable layer,France,East  3,,,,0
+116,117,2008,Geraldine,14 m yacht,United States,West 3,14,,,0
+117,118,2008,Southern Star,23Â·7 m yacht,France,West 4,23,7,,0
+118,119,2008,Tyhina,10Â·4 m yacht,NewZealand,West 4,10,4,,0
+119,120,2009,Apoise,67 m motor vessel,Canada,West 4,67,,,0
+120,121,2009,Bagan,17Â·4 m motorboat,United States,West 4,17,4,,0
+121,122,2009,Bremen,ice-strengthened ship,Bahamas,West 4,,,6,1
+122,123,2009,Baloum Gwen,14Â·9 m yacht,Belgium,East  6,14,9,2,1
+123,124,2009,Fleur Australe,20 m yacht,France,West 4,20,,,0
+124,125,2009,Fiona,12Â·8 m yacht,United States,West 4,12,8,,0
+125,126,2009,Glory of the Sea,15Â·3 m yacht,France,West 4,15,3,,0
+126,127,2009,Hanseatic,ice-strengthened ship,Bahamas,East  4,,,8,1
+127,128,2009,Ocean Watch,19Â·2 m yacht,United States,East  6,19,2,,0
+128,129,2009,Perithia,14Â·6 m yacht,Germany,West 4,14,6,,0
+129,130,2009,Polar Bound,14Â·6 m motorboat,Britain,West 5,14,6,2,1
+130,131,2009,Precipice,9Â·1 m yacht,United States,West 6,9,1,,0
+131,132,2009,Silent Sound,12Â·2 m yacht,Canada,East  6,12,2,,0
+132,133,2010,Ariel IV,15Â·2 m sloop,Sweden,West 4,15,2,,0
+133,134,2010,Astral Express,12Â·5 m yacht,NewZealand,West 3,12,5,,0
+134,135,2010,Dione Sky,46 m motor yacht,Cayman,West 2,46,,2,1
+135,136,2010,Hanse Explorer,48 m motor yacht,Antigua,West 3,48,,1,1
+136,137,2010,Hanseatic,ice-strengthened ship,Bahamas,West 4,,,9,1
+137,138,2010,Kapitan Khlebnikov,icebreaker,Russia,East  5,,,17,2
+138,139,2010,Octopus,128 m motor yacht,Cayman,West 2,128,,1,1
+139,140,2010,Rx II,11 m yacht,Norway,East  4,11,,,0
+140,141,2010,Sarema,15Â·2 m yacht,Finland,East  4,15,2,,0
+141,142,2010,Solanus,14Â·5 m yacht,Poland,West 4,14,5,,0
+142,143,2010,T6,48Â·5 m motor yacht,Cayman,West 3,48,5,6,0
+143,144,2010,Young Larry,13Â·4 m yawl,Britain,West 4,13,4,,0
+144,145,2010-11,Anna,10Â·5 m yawl,Sweden,West 4,10,5,1,1
+145,146,2010-11,Primula,fuel tanker,Norway,East  3,,,,0
+146,147,2011,Arcadia,35Â·8 m motor yacht,Cayman,West 5,35,8,,0
+147,148,2011,Asteria,converted tug,Marshall,West 3,,,,0
+148,149,2011,Bremen,ice-strengthened ship,Bahamas,East cp,,,,0
+149,150,2011,Chamade,13Â·3 m yacht,Switzerland,West 4,13,3,,0
+150,151,2011,Imvubu,15Â·9 m ketch,South,West 3,15,9,,0
+151,152,2011,Issuma,15 m schooner,Canada,West 5,15,,,0
+152,153,2011,Kotuku,12Â·2 m yacht,NewZealand,East  6,12,2,,0
+153,154,2011,Leava,12Â·5 m sloop,France,East  6,12,5,,0
+154,155,2011,Muktuk,14Â·3 m sloop,Austria,West 4,14,3,1,1
+155,156,2011,Pangaeas,35 m yacht,United States,East  4,35,,,0
+156,157,2011,Polar Bound,14Â·6 m motorboat,Britain,East  3,14,6,3,1
+157,158,2011,Rus,7Â·6 m trimaran,Russia,West 5,7,6,,0
+158,159,2011,St Brendan,8Â·2 m yacht,United States,West 4,8,2,,0
+159,160,2011,Santa Maria Australis,20Â·1 m ketch,Germany,West 4,20,1,,0
+160,161,2011-12,Roxane,10Â·7 m sloop,France,West 4,10,7,,0
+161,162,2011-12,Teleport,8Â·9 m junk rigged yacht,Australia,West 5,8,9,,0
+162,163,2012,Belzebub II,9Â·4 m yacht,Sweden,West 1,9,4,,0
+163,164,2012,Beothuk,31Â·1 m motor vessel,Cayman,West 6,31,1,,0
+164,165,2012,Best Explorer,15Â·6 m yacht,Italy,West 4,15,6,,0
+165,166,2012,Billy Budd,34*3 m yacht,Britain,West cp,34,3,,0
+166,167,2012,Coriolis ,25 m yacht,France,West 2,25,,14,2
+167,168,2012,Dodoâ€™s Delight,10Â·1 m yacht,Britain,West 3,10,1,1,1
+168,169,2012,Fortrus,50 m motor yacht,Britain,West 6,50,,,0
+169,110,2012,Gotland Carolina,183 m tanker,Bahamas,West 2,183,,,0
+170,171,2012,Hanseatic1,ice-strengthened ship,Bahamas,East  5,,,1,1
+171,172,2012,Jonathan III,14Â·9 m yacht,Netherlands,West 4,14,9,,0
+172,173,2012,Katharsis II,21Â·9 m yacht,Britain,West 3,21,9,,0
+173,174,2012,Marguerite,15Â·8 m sloop,France,West 4,15,8,,0
+174,175,2012,Nordwind,26Â·8 m yacht,Britain,West 3,26,8,,0
+175,176,2012,Octopus,128 m motor yacht,Cayman,West 2,128,,2,1
+176,177,2012,Philos,15Â·2 m schooner,Australia,West 4,15,2,1,1
+177,178,2012,Polar Bound,14Â·6 m motorboat,Britain,West 1,14,6,4,1
+178,179,2012,Sol,12Â·8 m yacht,Denmark,East  5,12,8,,0
+179,180,2012,The World,196Â·3 m condominium vessel,Bahamas,East  5,196,3,,0
+180,181,2012,Tokimata,13*1 m yacht,NewZealand,East  5,13,1,,0
+181,182,2012,Upchuk,15Â·8 m motor yacht,Britain,East  4,15,8,,0
+182,183,2012-13,Balthazar,10Â·5 m yacht,Canada,West 6,10,5,,0
+183,184,2012-13,Tranquilo,17Â·6 m cutter,Netherlands,East  5,17,6,1,1
+184,185,2013,Anna,10Â·5 m yawl,Sweden,East  6,10,5,2,1
+185,186,2013,Arktika,15 m sloop,Finland,West 5,15,,,0
+186,187,2013,Bremen,ice-strengthened ship,Bahamas,East  3,,,8,1
+187,188,2013,dâ€™AcalÃ¨phe,13Â·9 m yacht,Canada,West 5,13,9,,0
+188,189,2013,Dodoâ€™s Delight,10Â·1 m yacht,Britain,East  5,10,1,2,1
+189,190,2013,Hanse Explorer,48 m motor yacht,Antigua,West 5,48,,2,1
+190,191,2013,Hanseatic,ice-strengthened ship,Bahamas,West 5,,,11,2
+191,192,2013,Isatis,14Â·2 m yacht,Nouvelle,West 5,14,2,,0
+192,193,2013,La Belle Epoque,12Â·8 m yacht,Austria,West 5,12,8,,0
+193,194,2013,Lady M II,50 m motor yacht,Marshall,West 5,50,,,0
+194,195,2013,Le SolÃ©al,cruise vessel,France,West 6,,,,0
+195,196,2013,Libellule,14Â·3 m catamaran,Switzerland,West 5,14,3,,0
+196,197,2013,Michaela Rose,49Â·4 m motor yacht,Britain,East  5,49,4,,0
+197,198,2013,Nordic Orion,ice-strengthened bulk cargo vessel,Panama,East  3,,,,0
+198,199,2013,Octopus,128 m motor yacht,Cayman,East  5,128,,3,1
+199,200,2013,Perd pas le Nord,15Â·2 m yacht,Belgium,West 6,15,2,,0
+200,201,2013,Polar Bound,14Â·6 m motor boat,Britain,East  5,14,6,5,1
+201,202,2013,Polar Prince,icebreaker,Canada,East  5,,,1,1
+202,203,2013,Traversay III,13Â·7 m yacht,Canada,West 5,13,7,,0
+203,204,2013-14,Empiricus,15Â·2 m yawl,United States,East  6,15,2,,0
+204,205,2013-14,Gitana,13Â·4 m schooner,United States,West 6,13,4,,0
+205,206,2013-14,Le Manguier,21Â·1 m motor vessel,France,East  6,21,1,,0
+206,207,2014,Altan Girl,13*4 m motor vessel,Canada,East  6,13,4,,0
+207,208,2014,Arctic Tern UK,13Â·1 m sloop,Britain,West 6,13,1,,0
+208,209,2014,Drina,15Â·2 m yacht,Australia,West 6,15,2,,0
+209,210,2014,Lady Dana ,14Â·3Â·m sloop,Poland,East  6,14,3,44,2
+210,211,2014,Latitude,44Â·5 m motor yacht,Cayman,West 6,44,5,1,1
+211,212,2014,Lâ€™Austral,cruise vessel,France,West 4,,,,0
+212,213,2014,Novara,18Â·3 m schooner,Britain,West 6,18,3,,0
+213,214,2014,Nunavik,ice-strengthened bulk cargo vessel,Marshall Islands,West 2,,,,0
+214,215,2014,Silver Explorer,cruise vessel,Bahamas,West 5,,,,0
+215,216,2014,Triton,50 m motor vessel,Marshall,East  6,50,,,0
+216,217,2014-15,Gjoa,13Â·1 m yacht,Canada,West 6,13,1,,0
+217,218,2014-15,Philos,15Â·2 m schooner,Australia,East  6,15,2,2,1
+218,219,2015,14 m slo,Aventura,Bratain,East  6,,,14,2
+219,220,2015,Bagheera,16 m cutter,Netherlands,West 3,16,,,0
+220,221,2015,Drifter Way,14Â·9 m ketch,Canada,West 3,14,9,,0
+221,222,2015,Equanimity,92 m yacht,Cayman,West 3,92,,,0
+222,223,2015,Fennica,multipurpose icebreaker,Finland,East  3,,,,0
+223,224,2015,Hawk,12Â·8 m sloop,United States,West 4,12,8,,0
+224,225,2015,La ChimÃ¨re,10 m sloop,France,West 4,10,,,0
+225,226,2015,Latitude,44Â·5 m motor yacht,Cayman,East  5,44,5,2,1
+226,227,2015,Le Boreal,cruise vessel,France,West 6,,,1,1
+227,228,2015,Le SolÃ©al,cruise vessel,France,West 6,,,,0
+228,229,2015,Necton,14Â·0 m ketch,Netherlands,East  6,14,0,,0
+229,230,2015,Nordica,multipurpose icebreaker,Finland,East  3,,,1,1
+230,231,2015,Salty,19Â·8 m cutter,United States,West 3,19,8,,0
+231,232,2015,Selma,20Â·4 m ketch,Poland,West 6,20,4,,0
+232,233,2015,Snow Dragon II,14Â·9 m yacht,United States,West 3,14,9,,0
+233,234,2015,Tiama,12 m yacht,France,West 4,12,,,0
+234,235,2015-16,Maia,11 m yacht,Hungary,West 4,11,,,0
+235,236,2016,Africaborg,ice-strengthened cargo ship,Netherlands,East  5,,,,0
+236,237,2016,Agar II,15Â·2 m sloop,Israel,East  6,15,2,,0
+237,238,2016,Bonavalette,10Â·7 m sloop,Switzerland,West 4,10,7,,0
+238,239,2016,Breakpoint,14 m sloop,Germany,West 6,14,,,0
+239,240,2016,Caledonia,20Â·1 m sloop,Germany,East  5,20,1,,0
+240,241,2016,Crystal Serenity,cruise vessel,Bahamas,East  5,,,,0
+241,242,2016,Eagles Quest II,17Â·7 m sloop,Hong,East  6,17,7,,0
+242,243,2016,Galileo G,55Â·2 m motor yacht,Britain,West 4,55,2,,0
+243,244,2016,Hetairos,67 m ketch,Cayman,West 6,67,,,0
+244,245,2016,Kapitan Khlebnikov,icebreaker,Russia,West 2,,,18,2
+245,246,2016,Lâ€™Austral,cruise vessel,France,West 4,,,2,1
+246,247,2016,Maewan IV,11Â·3 m sloop,France,West 6,11,3,,0
+247,248,2016,ManevaÃ¯,14Â·3 m sloop,France,West 4,14,3,,0
+248,249,2016,Pachamama,15Â·2 m sloop,Switzerland,East  7,15,2,,0
+249,250,2016,Polar Bound,14Â·6 m motor boat,Britain,West 7,14,6,6,1
+250,251,2016,Ratafia,10Â·2 m yacht,France,West 4,10,2,,0
+251,252,2016,Yvinec,11Â·8 m yacht,France,West 6,11,8,,0
+252,253,2016-17,Nomad,12Â·8 m sloop,Austria,West 6,12,8,,0
+253,254,2017,Abel Tasman,22Â·9 m yacht,Cook,East  6,22,9,,0
+254,255,2017,Alkahest,12Â·8 m cutter,United States,West 6,12,8,,0
+255,256,2017,Arcticaborg,icebreaking tug,Cura,West 3,,,,0
+256,257,2017,Atlanticborg,ice-strengthened cargo ship,Netherlands,East  7,,,,0
+257,258,2017,Bremen,ice-strengthened ship,Bahamas,East  7,,,9,1
+258,259,2017,Celebrate,17Â·7 m yacht,United States,West 6,17,7,,0
+259,260,2017,Crystal Serenity,cruise vessel,Bahamas,East  5,,,2,1
+260,261,2017,Freydis,16Â·9 m cutter,Germany,East  6,16,9,,0
+261,262,2017,Happy Rover,138 m cargo ship,Netherlands,East  7,138,,,0
+262,263,2017,Havelstern,tanker,Canada,West 3,,,,0
+263,264,2017,Irene,15Â·2 m ketch,United States,East  6,15,2,,0
+264,265,2017,Kerguelen,11Â·3 m ketch,France,West 3,11,3,,0
+265,266,2017,Kigdlua,12Â·8 m sloop,Greenland,West 4,12,8,,0
+266,267,2017,Lady Free,12Â·4 m gaff cutter,Norway,East  6,12,4,,0
+267,268,2017,Larissa,13Â·7 m cutter,NewZealand,East  6,13,7,,0
+268,269,2017,Le Boreal,cruise vessel,France,West 6,,,2,1
+269,270,2017,Le Why,20 m schooner,France,West 4,20,,,0
+270,271,2017,Ma Louloutte,6*3 catamaran,France,East  6,6,3,,0
+271,272,2017,MakorÃ© ,13Â·6 m yacht,France,West 6,13,6,2,1
+272,273,2017,USCGC Maple,buoy tender,United States,East  3,,,,0
+273,274,2017,Morning Haze,16Â·9 m sloop,Germany,West 6,16,9,,0
+274,275,2017,Muktuk,14Â·3 sloop,Austria,East  6,14,3,2,1
+275,276,2017,Nauta D,16Â·5 m yacht,Germany,West 6,16,5,,0
+276,277,2017,Nehaj,11Â·9 m cutter,Germany,East  6,11,9,,0
+277,278,2017,Nordica,multipurpose icebreaker,Finland,East  3,,,2,1
+278,279,2017,Plum,21Â·9 m cutter,Malta,East  6,21,9,,0
+279,280,2017,Polar Bound,14Â·6 m motor boat,Britain,East  5,14,6,7,1
+280,281,2017,Polar Prince,icebreaker,Canada,West 3,,,2,1
+281,282,2017,Tiama,15Â·2 m sloop,NewZealand,East  6,15,2,,0
+282,283,2017,Tonga,13Â·8 m yacht,France,West 6,13,8,,0
+283,284,2017,Tranquilo,17Â·6 m cutter,Netherlands,East  5,17,6,2,1
+284,285,2017,Valentina,15Â·2 m sloop,Russia,West 6,15,2,,0
+285,286,2017,Xue Long,icebreaker,China,West 3,,,,0
+286,287,2017,Zulumbus,11Â·7 m yacht,Austria,West 6,11,7,,0
